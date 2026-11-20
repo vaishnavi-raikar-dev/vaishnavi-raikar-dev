@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Vaishnavi Raikar 👋
 
-<!--
-**vaishnavi-raikar-dev/vaishnavi-raikar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js | JavaScript
 
-Here are some ideas to get you started:
+I'm a Frontend Developer currently working at Tata Consultancy Services (TCS), interested in building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously improving my skills in JavaScript and React.js and building hands-on projects to strengthen my frontend development knowledge.
+
+### 💻 Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Advanced JavaScript, React Hooks, API Integration
+
+### 🚀 My Goals
+
+- Strengthen my JavaScript fundamentals.
+- Build real-world applications using React.js.
+- Improve my problem-solving and coding skills.
+- Continuously learn new frontend technologies.
+
+### 🔗 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/vaishnaviraikar11
+
+---
+
+⭐ Thanks for visiting my profile!
